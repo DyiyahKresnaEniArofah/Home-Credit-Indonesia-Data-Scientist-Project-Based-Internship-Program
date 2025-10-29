@@ -1,0 +1,2 @@
+# Home-Credit-Indonesia-Data-Scientist-Project-Based-Internship-Program
+Data Scientist Project-Based Internship Program dari Home Credit Indonesia. Final Task yang diberikan berfokus pada pengembangan model kredit yang lebih akurat dan berorientasi pada nasabah. Inti permasalahannya adalah memastikan calon pelanggan yang memiliki kemampuan untuk melunasi pinjaman tidak ditolak saat mengajukan aplikasi.
