@@ -5,18 +5,18 @@ Evaluasi kinerja akan didasarkan pada kedalaman analisis dan kualitas model yang
 
 Proyek ini dikerjakan dengan memanfaatkan tujuh dataset yang saling terhubung, yaitu:
 
-application_train.csv & application_test.csv: Data utama aplikasi pinjaman.
+1. application_train.csv & application_test.csv: Data utama aplikasi pinjaman.
 
-BUREAU: Data mengenai pinjaman applicant di lembaga keuangan lain.
+2. bureau.csv: Data mengenai pinjaman applicant di lembaga keuangan lain.
 
-BUREAU_BALANCE: Riwayat bulanan dari pinjaman yang tercatat di dataset BUREAU.
+3. bureau.csv: Riwayat bulanan dari pinjaman yang tercatat di dataset BUREAU.
 
-PREVIOUS_APPLICATION: Data aplikasi pinjaman sebelumnya di Home Credit.
+4. previous_application.csv: Data aplikasi pinjaman sebelumnya di Home Credit.
 
-POS_CASH_BALANCE: Riwayat pinjaman tunai atau cicilan sebelumnya.
+5. POS_CASH_balance.csv: Riwayat pinjaman tunai atau cicilan sebelumnya.
 
-CREDIT_CARD_BALANCE: Riwayat penggunaan kartu kredit.
+6. credit_card_balance.csv: Riwayat penggunaan kartu kredit.
 
-INSTALLMENTS_PAYMENT: Detail histori pembayaran angsuran.
+7. installments_payments.csv: Detail histori pembayaran angsuran.
 
 Dengan menganalisis data yang komprehensif ini, tujuan akhirnya adalah membangun suatu sistem yang tidak hanya meminimalkan risiko kredit macet tetapi juga mendukung inklusi keuangan dengan memberikan keputusan yang lebih adil dan suportif bagi calon pelanggan.
